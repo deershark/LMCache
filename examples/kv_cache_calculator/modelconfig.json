@@ -141,5 +141,11 @@
         "num_hidden_layers": 92,
         "num_key_value_heads": 8,
         "head_dim": 128
+    },
+        "Qwen/Qwen3-235B-A22B-GPTQ-Int4":{
+        "hidden_size": 4096,
+        "num_attention_heads": 64,
+        "num_hidden_layers": 94,
+        "num_key_value_heads": 4
     }
 }
